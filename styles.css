@@ -1,0 +1,31 @@
+/* *: universal selector */
+
+* {margin: auto;
+   padding: 2;
+   color: red;
+   
+}
+
+/* tag-name selector*/
+
+/* p {
+    color: red;
+} */
+
+h3 {
+    font-size: 14px;
+}
+
+/* class-name selector */
+.card {
+    border: 1px solid black;
+    text-align: center;
+    display: block;
+    width: 300px;
+    /* color:red; */
+}
+ 
+/* id selector */
+#main-language {
+    font-weight: bold;
+}
